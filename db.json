@@ -30,7 +30,7 @@
       "description": "Create a form with 5 input fields"
     }
   ],
-  "favorite": [
+  "favorites": [
     {
       "id": 1,
       "taskId": 2
