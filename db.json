@@ -29,5 +29,11 @@
       "projectId": 2,
       "description": "Create a form with 5 input fields"
     }
+  ],
+  "favorite": [
+    {
+      "id": 1,
+      "taskId": 2
+    }
   ]
 }
